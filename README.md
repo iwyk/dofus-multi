@@ -1,8 +1,20 @@
-# **Dofus-multi : Jouer en multi sur les serveurs mono avec le no-anim**
+# **---- ONLY SOURCE CODE HERE, NO RELEASE ----**
+
+# **---- CODE SOURCE ICI SEULEMENT, AUCUNE PUBLICATION ----**
+
+# **---- ONLY SOURCE CODE HERE, NO RELEASE ----**
+
+# **---- CODE SOURCE ICI SEULEMENT, AUCUNE PUBLICATION ----**
+----
+----
+----
+----
+
+## **Dofus-multi : Jouer en multi sur les serveurs mono avec le no-anim**
 
 **Pour les utilisateurs de windows, vous pouvez télécharger la dernière version avec ce lien :**
 
-https://github.com/krm35/dofus-multi/releases/latest
+----
 
 **To start in dev mode**
 
@@ -18,7 +30,7 @@ Pour ceux qui ont des notifications windows en boucle, vous pouvez désactiver l
 
 ![Alt Text](front/public/img/notif2.png)
 
-# Wakfu
+## Wakfu
 
 Pour wakfu, il faut installer virtualbox pour créer des cartes réseaux virtuelles :
 
